@@ -25,7 +25,7 @@ struct BusinessView: View {
                 Button {
                     mapController.isBusinessViewShowing.toggle()
                 } label: {
-                    Image(systemName: "cup.and.saucer.fill")
+                    Image(systemName: "arrow.down")
                         .foregroundColor(.secondary)
                 }
             
