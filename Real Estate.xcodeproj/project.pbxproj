@@ -15,6 +15,7 @@
 		045ADC8A2A894B3800637EA1 /* Business.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045ADC892A894B3800637EA1 /* Business.swift */; };
 		045ADC8C2A894BF400637EA1 /* MapController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045ADC8B2A894BF400637EA1 /* MapController.swift */; };
 		045ADC8E2A896C8500637EA1 /* BusinessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045ADC8D2A896C8500637EA1 /* BusinessView.swift */; };
+		045ADC902A89729300637EA1 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045ADC8F2A89729300637EA1 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		045ADC892A894B3800637EA1 /* Business.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Business.swift; sourceTree = "<group>"; };
 		045ADC8B2A894BF400637EA1 /* MapController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapController.swift; sourceTree = "<group>"; };
 		045ADC8D2A896C8500637EA1 /* BusinessView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessView.swift; sourceTree = "<group>"; };
+		045ADC8F2A89729300637EA1 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				045ADC792A894A0C00637EA1 /* Real_EstateApp.swift */,
 				045ADC7B2A894A0C00637EA1 /* ContentView.swift */,
+				045ADC8F2A89729300637EA1 /* MapView.swift */,
 				045ADC8D2A896C8500637EA1 /* BusinessView.swift */,
 				045ADC872A894A4200637EA1 /* Action.swift */,
 				045ADC892A894B3800637EA1 /* Business.swift */,
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				045ADC902A89729300637EA1 /* MapView.swift in Sources */,
 				045ADC8E2A896C8500637EA1 /* BusinessView.swift in Sources */,
 				045ADC7C2A894A0C00637EA1 /* ContentView.swift in Sources */,
 				045ADC8A2A894B3800637EA1 /* Business.swift in Sources */,

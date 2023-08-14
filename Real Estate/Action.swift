@@ -12,5 +12,5 @@ struct Action: Identifiable {
     let title: String
     let image: String
     // this is a handler. it's a closure or anonymous function that gets executed when the action is performed.
-    let handle: () -> Void 
+    let handler: () -> Void
 }
